@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['mailbox_8',['MailBox',['../index.html',1,'']]],
+  ['mailboxaddmail_9',['MailboxAddMail',['../_mail_box_wrapper_8c.html#a2942dc830b5d60993c08210e8cb5a0d6',1,'MailBoxWrapper.c']]],
+  ['mailboxdefines_2eh_10',['MailBoxDefines.h',['../_mail_box_defines_8h.html',1,'']]],
+  ['mailboxdeletemail_11',['MailboxDeleteMail',['../_mail_box_wrapper_8c.html#a1e3ec7d098c703b9122a233482110ae6',1,'MailBoxWrapper.c']]],
+  ['mailboxdynamic_2ec_12',['MailBoxDynamic.c',['../_mail_box_dynamic_8c.html',1,'']]],
+  ['mailboxdynamic_2eh_13',['MailBoxDynamic.h',['../_mail_box_dynamic_8h.html',1,'']]],
+  ['mailboxdynamicaddmail_14',['MailboxDynamicAddMail',['../_mail_box_dynamic_8h.html#a7ce9f297a61b90879844fb3ba9254fcd',1,'MailboxDynamicAddMail(sMailBoxDynamic_t *const Me, const char *const msg):&#160;MailBoxDynamic.c'],['../_mail_box_dynamic_8c.html#ab5375766700adf190abbf4bc9b83fff7',1,'MailboxDynamicAddMail(sMailBoxDynamic_t *const Me, const char *const newmsg):&#160;MailBoxDynamic.c']]],
+  ['mailboxdynamicdeletemail_15',['MailboxDynamicDeleteMail',['../_mail_box_dynamic_8h.html#a74b621683a318b2bafc1c8f76335f36b',1,'MailboxDynamicDeleteMail(sMailBoxDynamic_t *const Me):&#160;MailBoxDynamic.c'],['../_mail_box_dynamic_8c.html#a74b621683a318b2bafc1c8f76335f36b',1,'MailboxDynamicDeleteMail(sMailBoxDynamic_t *const Me):&#160;MailBoxDynamic.c']]],
+  ['mailboxdynamicinit_16',['MailboxDynamicInit',['../_mail_box_dynamic_8h.html#aa0e1f8d47ede84a5bfd43681c739119c',1,'MailboxDynamicInit(sMailBoxDynamic_t *const Me):&#160;MailBoxDynamic.c'],['../_mail_box_dynamic_8c.html#aa0e1f8d47ede84a5bfd43681c739119c',1,'MailboxDynamicInit(sMailBoxDynamic_t *const Me):&#160;MailBoxDynamic.c']]],
+  ['mailboxdynamicscrollnext_17',['MailboxDynamicScrollNext',['../_mail_box_dynamic_8h.html#a54a1aed67f42df9095a65f23fbdea563',1,'MailboxDynamicScrollNext(sMailBoxDynamic_t *const Me):&#160;MailBoxDynamic.c'],['../_mail_box_dynamic_8c.html#a54a1aed67f42df9095a65f23fbdea563',1,'MailboxDynamicScrollNext(sMailBoxDynamic_t *const Me):&#160;MailBoxDynamic.c']]],
+  ['mailboxdynamicview_18',['MailboxDynamicview',['../_mail_box_dynamic_8h.html#a8bf4b18283b278751f745343d5301995',1,'MailboxDynamicview(sMailBoxDynamic_t *const Me, char *const msg):&#160;MailBoxDynamic.c'],['../_mail_box_dynamic_8c.html#a8bf4b18283b278751f745343d5301995',1,'MailboxDynamicview(sMailBoxDynamic_t *const Me, char *const msg):&#160;MailBoxDynamic.c']]],
+  ['mailboxinit_19',['MailboxInit',['../_mail_box_wrapper_8c.html#a14c8f05a2095346b714dbe8d4b01299f',1,'MailBoxWrapper.c']]],
+  ['mailboxscrollnext_20',['MailboxScrollNext',['../_mail_box_wrapper_8c.html#ab0e54b615cf9d258ee36fb2eccf723d9',1,'MailBoxWrapper.c']]],
+  ['mailboxstatic_2ec_21',['MailBoxStatic.c',['../_mail_box_static_8c.html',1,'']]],
+  ['mailboxstatic_2eh_22',['MailBoxStatic.h',['../_mail_box_static_8h.html',1,'']]],
+  ['mailboxstaticaddmail_23',['MailboxStaticAddMail',['../_mail_box_static_8h.html#a9ab308982775af4010f0f26493df01b0',1,'MailboxStaticAddMail(sMailBox_t *const Me, const char *newMsg):&#160;MailBoxStatic.c'],['../_mail_box_static_8c.html#a9ab308982775af4010f0f26493df01b0',1,'MailboxStaticAddMail(sMailBox_t *const Me, const char *newMsg):&#160;MailBoxStatic.c']]],
+  ['mailboxstaticdeletemail_24',['MailboxStaticDeleteMail',['../_mail_box_static_8h.html#a62fec86f4f68fd4222c49ea67a193de0',1,'MailboxStaticDeleteMail(sMailBox_t *const Me):&#160;MailBoxStatic.c'],['../_mail_box_static_8c.html#a62fec86f4f68fd4222c49ea67a193de0',1,'MailboxStaticDeleteMail(sMailBox_t *const Me):&#160;MailBoxStatic.c']]],
+  ['mailboxstaticinit_25',['MailboxStaticInit',['../_mail_box_static_8h.html#aef3c06685281d7f8f0a21f2d9ecaba50',1,'MailboxStaticInit(sMailBox_t *const Me):&#160;MailBoxStatic.c'],['../_mail_box_static_8c.html#aef3c06685281d7f8f0a21f2d9ecaba50',1,'MailboxStaticInit(sMailBox_t *const Me):&#160;MailBoxStatic.c']]],
+  ['mailboxstaticscrollnext_26',['MailboxStaticScrollNext',['../_mail_box_static_8h.html#a8b1d625ed528deeac5ba55b4646efcdf',1,'MailboxStaticScrollNext(sMailBox_t *const Me):&#160;MailBoxStatic.c'],['../_mail_box_static_8c.html#a8b1d625ed528deeac5ba55b4646efcdf',1,'MailboxStaticScrollNext(sMailBox_t *const Me):&#160;MailBoxStatic.c']]],
+  ['mailboxstaticview_27',['MailboxStaticview',['../_mail_box_static_8h.html#a9981167d8afb5bd6611bf7502e3d8cc3',1,'MailboxStaticview(sMailBox_t *const Me, char *const msg):&#160;MailBoxStatic.c'],['../_mail_box_static_8c.html#a9981167d8afb5bd6611bf7502e3d8cc3',1,'MailboxStaticview(sMailBox_t *const Me, char *const msg):&#160;MailBoxStatic.c']]],
+  ['mailboxview_28',['Mailboxview',['../_mail_box_wrapper_8c.html#af88651f5e300497c7ee8b3f674676a75',1,'MailBoxWrapper.c']]],
+  ['mailboxviewall_29',['MailboxViewAll',['../_mail_box_wrapper_8c.html#a7c97399ef2926b341bb75653faf46881',1,'MailBoxWrapper.c']]],
+  ['mailboxwrapper_2ec_30',['MailBoxWrapper.c',['../_mail_box_wrapper_8c.html',1,'']]],
+  ['main_31',['main',['../_main_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'Main.c']]],
+  ['main_2ec_32',['Main.c',['../_main_8c.html',1,'']]]
+];
